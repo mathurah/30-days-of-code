@@ -57,3 +57,12 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+day-two/day-two.xcodeproj/project.xcworkspace/xcuserdata/mathurah.xcuserdatad/UserInterfaceState.xcuserstate
+day-three/day-three.xcodeproj/xcuserdata/mathurah.xcuserdatad/xcschemes/xcschememanagement.plist
+day-three/day-three.xcodeproj/project.xcworkspace/xcuserdata/mathurah.xcuserdatad/UserInterfaceState.xcuserstate
+day-three/day-three.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+day-three/day-three.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.pbxproj
+*.xcworkspacedata
+*.plist
+*.xcuserstate
