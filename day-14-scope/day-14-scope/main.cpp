@@ -32,3 +32,7 @@ class Difference {
     }
 
 }; // End of Difference class
+
+int main () {
+    
+}
